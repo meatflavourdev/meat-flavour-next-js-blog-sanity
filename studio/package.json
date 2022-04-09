@@ -13,7 +13,7 @@
 		"@sanity/base": "^2.0.5",
 		"@sanity/components": "^2.0.5",
 		"@sanity/core": "^2.0.5",
-		"@sanity/default-layout": "^2.0.5",
+		"@sanity/default-layout": "^2.29.1",
 		"@sanity/default-login": "^2.0.5",
 		"@sanity/desk-tool": "^2.0.5",
 		"@sanity/vision": "^2.0.5",
