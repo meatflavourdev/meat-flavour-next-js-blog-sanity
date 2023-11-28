@@ -16,7 +16,7 @@
     "@sanity/image-url": "0.140.19",
     "classnames": "2.2.6",
     "date-fns": "2.15.0",
-    "next": "latest",
+    "next": "10.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hook-form": "^6.7.0",
