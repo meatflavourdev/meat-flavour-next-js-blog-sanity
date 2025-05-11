@@ -10,12 +10,12 @@
 		"sanity"
 	],
 	"dependencies": {
-		"@sanity/base": "^2.0.5",
-		"@sanity/components": "^2.0.5",
+		"@sanity/base": "^2.1.5",
+		"@sanity/components": "^2.1.0",
 		"@sanity/core": "^2.0.5",
-		"@sanity/default-layout": "^2.0.5",
+		"@sanity/default-layout": "^2.21.0",
 		"@sanity/default-login": "^2.0.5",
-		"@sanity/desk-tool": "^2.0.5",
+		"@sanity/desk-tool": "^2.11.0",
 		"@sanity/vision": "^2.0.5",
 		"prop-types": "^15.6",
 		"react": "^16.2",
